@@ -14,8 +14,7 @@ This repository contains my beginner-level JavaScript practice problems.
 - DataTypes in Js
 - Practice Questions
 
-** Operators and Conditional Statements
-- Introduction
+** Operators and Conditional Statements - Lecture Video: https://youtu.be/Zg4-uSjxosE?si=_ZvWbuj21X6-rUI1
 - Comments in JS
 - Arithmetic Operators
 - Unary Operators
@@ -29,6 +28,18 @@ This repository contains my beginner-level JavaScript practice problems.
 - MDN Docs
 - Let's Practice
 
-** 
+** Loops and Strings - Lecture Video: https://youtu.be/UmRtFFSDSFo?si=6cNYyPNGtrwSN2_t
+- for Loop
+- while Loop
+- do-while Loop
+- for-of Loop
+- for - in Loop
+- Let's Practice 
+- Strings in JS
+- Template Literals 
+- String Methods in JS
+- Let's Practice
+
+**
 
 More coming soon 🚀
