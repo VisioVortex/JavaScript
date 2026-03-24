@@ -26,7 +26,6 @@ This repository contains my beginner-level JavaScript practice problems.
 - if-else Statement
 - else-if Statement
 - MDN Docs
-- Let's Practice
 
 ** Loops and Strings - Lecture Video: https://youtu.be/UmRtFFSDSFo?si=6cNYyPNGtrwSN2_t
 - for Loop
@@ -38,8 +37,13 @@ This repository contains my beginner-level JavaScript practice problems.
 - Strings in JS
 - Template Literals 
 - String Methods in JS
-- Let's Practice
 
-**
+** Arrays - Lecture Video: https://youtu.be/gFWhbjzowrM?si=3zpRxs9MZOHCa-7r
+- ARRAYS
+- ARRAYS INDICES
+- LOOPING OVER ARRAYS
+- ARRAY METHODS 
+
+** - Lecture Video: 
 
 More coming soon 🚀
